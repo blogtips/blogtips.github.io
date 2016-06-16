@@ -6,7 +6,7 @@ image:
   teaser: la-moustache-teaser.jpg
   thumb: la-moustache-thumb.jpg
   credit: DVD screengrab from The Movie Database
-  creditlink: http://www.themoviedb.org/movie/16998-la-moustache
+  credit_link: http://www.themoviedb.org/movie/16998-la-moustache
 tags: [mustache, French, film, review, foreign]
 ---
 

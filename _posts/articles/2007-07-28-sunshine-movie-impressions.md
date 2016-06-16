@@ -7,7 +7,7 @@ image:
   teaser: sunshine-teaser.jpg
   thumb: sunshine-thumb.jpg
   credit: DVD screengrab from DVDBeaver
-  creditlink: http://www.dvdbeaver.com/film2/DVDReviews34/sunshine_blu-ray.htm
+  credit_link: http://www.dvdbeaver.com/film2/DVDReviews34/sunshine_blu-ray.htm
 tags: [sci-fi, film, review, space]
 ---
 

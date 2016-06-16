@@ -6,7 +6,7 @@ image:
   teaser: diving-bell-butterfly-teaser.jpg
   thumb: diving-bell-butterfly-thumb.jpg
   credit: DVD screengrab from Artsy Fartsy Film
-  creditlink: http://artsyfartsyfilm.blogspot.com
+  credit_link: http://artsyfartsyfilm.blogspot.com
 tags: [French, foreign, film, review]
 ---
 
