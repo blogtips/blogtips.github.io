@@ -2,9 +2,9 @@
 title: "One year"
 excerpt: "PaperFaces portrait of @IvanHCSim drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-ivanhcsim-twitter-lg.jpg
-  teaser: paperfaces-ivanhcsim-twitter-teaser.jpg
-  thumb: paperfaces-ivanhcsim-twitter-150.jpg
+  feature: /images/paperfaces-ivanhcsim-twitter-lg.jpg
+  teaser: /images/paperfaces-ivanhcsim-twitter-teaser.jpg
+  thumb: /images/paperfaces-ivanhcsim-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53, bokeh, blend]
 ---
 

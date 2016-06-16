@@ -2,9 +2,9 @@
 title: "You were the chosen one!"
 excerpt: "PaperFaces portrait Obi-Wan Kenobi drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-obi-wan-kenobi-lg.jpg
-  teaser: paperfaces-obi-wan-kenobi-teaser.jpg
-  thumb: paperfaces-obi-wan-kenobi-150.jpg
+  feature: /images/paperfaces-obi-wan-kenobi-lg.jpg
+  teaser: /images/paperfaces-obi-wan-kenobi-teaser.jpg
+  thumb: /images/paperfaces-obi-wan-kenobi-150.jpg
 tags: [portrait, illustration, Paper by 53, Star Wars, beard]
 ---
 

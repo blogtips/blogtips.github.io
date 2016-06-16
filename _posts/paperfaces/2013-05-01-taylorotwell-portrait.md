@@ -2,8 +2,8 @@
 title: "Speaking at a conference"
 excerpt: "PaperFaces portrait of @taylorotwell drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-taylorotwell-twitter-lg.jpg
-  thumb: paperfaces-taylorotwell-twitter-150.jpg
+  feature: /images/paperfaces-taylorotwell-twitter-lg.jpg
+  thumb: /images/paperfaces-taylorotwell-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

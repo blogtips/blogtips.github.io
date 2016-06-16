@@ -2,8 +2,8 @@
 title: "Resting glasses"
 excerpt: "PaperFaces portrait of @dereklakin drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-dereklakin-twitter-lg.jpg
-  thumb: paperfaces-dereklakin-twitter-150.jpg
+  feature: /images/paperfaces-dereklakin-twitter-lg.jpg
+  thumb: /images/paperfaces-dereklakin-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

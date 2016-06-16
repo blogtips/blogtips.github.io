@@ -2,9 +2,9 @@
 title: "Lid Flip"
 excerpt: "PaperFaces portrait of the Chrissy Jo drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-chrissy-jo-lg.jpg
-  teaser: paperfaces-chrissy-jo-teaser.jpg
-  thumb: paperfaces-chrissy-jo-150.jpg
+  feature: /images/paperfaces-chrissy-jo-lg.jpg
+  teaser: /images/paperfaces-chrissy-jo-teaser.jpg
+  thumb: /images/paperfaces-chrissy-jo-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy]
 ---
 

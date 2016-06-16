@@ -2,9 +2,9 @@
 title: "Landscape of the Apocalypse"
 excerpt: "PaperFaces portrait commission of Nick B. drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-nick-b-lg.jpg
-  teaser: paperfaces-nick-b-teaser.jpg
-  thumb: paperfaces-nick-b-150.jpg
+  feature: /images/paperfaces-nick-b-lg.jpg
+  teaser: /images/paperfaces-nick-b-teaser.jpg
+  thumb: /images/paperfaces-nick-b-150.jpg
 tags: [portrait, illustration, Paper by 53, Mix]
 ---
 

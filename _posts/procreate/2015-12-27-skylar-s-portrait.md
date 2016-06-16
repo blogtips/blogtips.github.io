@@ -3,9 +3,9 @@ title: "Rough is Not Rough Enough"
 excerpt: "Portrait of Skylár S. digitally painted with Procreate on an iPad."
 modified: 2015-12-27T00:00:00-00:00
 image: 
-  feature: skylar-s-procreate-lg.jpg
-  teaser: skylar-s-procreate-teaser.jpg
-  thumb: skylar-s-procreate-250.jpg
+  feature: /images/skylar-s-procreate-lg.jpg
+  teaser: /images/skylar-s-procreate-teaser.jpg
+  thumb: /images/skylar-s-procreate-250.jpg
 tags: [Procreate, painting, drawing, portrait, illustration, time lapse, black and white, Sktchy]
 ---
 

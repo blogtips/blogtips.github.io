@@ -2,9 +2,9 @@
 title: "Stop staring at me"
 excerpt: "PaperFaces portrait of Ryan S. drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-ryan-s-lg.jpg
-  teaser: paperfaces-ryan-s-teaser.jpg
-  thumb: paperfaces-ryan-s-150.jpg
+  feature: /images/paperfaces-ryan-s-lg.jpg
+  teaser: /images/paperfaces-ryan-s-teaser.jpg
+  thumb: /images/paperfaces-ryan-s-150.jpg
 tags: [portrait, illustration, Paper by 53, eye, Sktchy]
 ---
 

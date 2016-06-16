@@ -2,9 +2,9 @@
 title: Feeling Kinda Stuck In A Half Nelson
 excerpt: "My impressions of the film Half Nelson, starring Ryan Gosling."
 image: 
-  feature: half-nelson-feature.jpg
-  teaser: half-nelson-teaser.jpg
-  thumb: half-nelson-thumb.jpg
+  feature: /images/half-nelson-feature.jpg
+  teaser: /images/half-nelson-teaser.jpg
+  thumb: /images/half-nelson-thumb.jpg
   credit: DVD screengrab from DB Cover
   credit_link: http://www.dbcovers.com/image-of-half-nelson-2006-half_nelson_2006_1
 tags: [film, review, indie]

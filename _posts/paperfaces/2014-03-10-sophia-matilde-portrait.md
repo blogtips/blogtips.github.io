@@ -2,8 +2,8 @@
 title: "Little one x2"
 excerpt: "PaperFaces portrait of one month old twins drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-sophia-matilde-lg.jpg
-  thumb: paperfaces-sophia-matilde-150.jpg
+  feature: /images/paperfaces-sophia-matilde-lg.jpg
+  thumb: /images/paperfaces-sophia-matilde-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

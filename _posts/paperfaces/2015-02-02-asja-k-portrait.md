@@ -3,9 +3,9 @@ title: "Violet Moon"
 excerpt: "PaperFaces portrait of the Asja K. drawn with Paper by 53 on an iPad."
 modified: 
 image: 
-  feature: paperfaces-asja-k-lg.jpg
-  teaser: paperfaces-asja-k-teaser.jpg
-  thumb: paperfaces-asja-k-150.jpg
+  feature: /images/paperfaces-asja-k-lg.jpg
+  teaser: /images/paperfaces-asja-k-teaser.jpg
+  thumb: /images/paperfaces-asja-k-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy, Mix]
 ---
 

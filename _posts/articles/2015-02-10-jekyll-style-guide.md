@@ -4,9 +4,9 @@ modified: 2016-01-20
 excerpt: "How I used collections with Jekyll to build a style guide and pattern library for Made Mistakes."
 tags: [Jekyll, style guide, open source, web development, GitHub]
 image:
-  feature: jekyll-style-guide-feature.jpg
-  teaser: jekyll-style-guide-teaser.jpg
-  thumb: jekyll-style-guide-th.jpg
+  feature: /images/jekyll-style-guide-feature.jpg
+  teaser: /images/jekyll-style-guide-teaser.jpg
+  thumb: /images/jekyll-style-guide-th.jpg
 featured: true
 comments: true
 ---
@@ -154,7 +154,7 @@ Sandwiched between the `entry` loop is an include that takes care of spitting ou
 ```html
 {% raw %}<article class="component">
   <header class="component-header">
-    <h3 id="guide-{{ entry.title | slugify }}">{{ entry.title }}</h3>
+    <h3 id="guide-{{ entry.title | /images/slugify }}">{{ entry.title }}</h3>
       {% if entry.usage %}<p><strong>Usage:</strong> {{ entry.usage }}</p>{% endif %}
       {% if entry.module %}<p><strong>Include file:</strong> <a href="{{ site.owner.github-repo }}{{ entry.module }}">{{ entry.module }}</a></p>{% endif %}
       {% if entry.scss %}<p class="header-entry-last"><strong>SCSS file:</strong> <a href="{{ site.owner.github-repo }}{{ entry.scss }}">{{ entry.scss }}</a></p>{% endif %}
@@ -187,7 +187,7 @@ To help expose components that may be buried towards the bottom of the page I ca
     {% for type in componentsByType %}
     <option value="#guide-{{ type.name }}">{{ type.name | capitalize }}</option>
     {% for entry in type.items %}
-    <option value="#guide-{{ entry.title | slugify }}">&nbsp;&nbsp;&nbsp;{{ entry.title }}</option>
+    <option value="#guide-{{ entry.title | /images/slugify }}">&nbsp;&nbsp;&nbsp;{{ entry.title }}</option>
     {% endfor %}
     {% endfor %}
   </select>

@@ -2,8 +2,8 @@
 title: "Hat tip in gray"
 excerpt: "PaperFaces portrait of @nett00n drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-nett00n-twitter-lg.jpg
-  thumb: paperfaces-nett00n-twitter-150.jpg
+  feature: /images/paperfaces-nett00n-twitter-lg.jpg
+  thumb: /images/paperfaces-nett00n-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53, black and white]
 ---
 

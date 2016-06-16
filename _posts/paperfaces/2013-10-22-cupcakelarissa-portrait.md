@@ -2,8 +2,8 @@
 title: "Yellow sleeveless"
 excerpt: "PaperFaces portrait of @cupcakelarissa drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-cupcakelarissa-twitter-lg.jpg
-  thumb: paperfaces-cupcakelarissa-twitter-150.jpg
+  feature: /images/paperfaces-cupcakelarissa-twitter-lg.jpg
+  thumb: /images/paperfaces-cupcakelarissa-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

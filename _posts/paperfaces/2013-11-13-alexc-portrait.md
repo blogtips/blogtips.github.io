@@ -2,8 +2,8 @@
 title: "Blue cool"
 excerpt: "PaperFaces portrait of @alexc drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-alexc-twitter-lg.jpg
-  thumb: paperfaces-alexc-twitter-150.jpg
+  feature: /images/paperfaces-alexc-twitter-lg.jpg
+  thumb: /images/paperfaces-alexc-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

@@ -3,9 +3,9 @@ title: "That Vintage Look"
 excerpt: "Portrait of Madison S., digitally painted with Procreate on an iPad."
 modified: 2015-11-16T11:48:50-05:00
 image: 
-  feature: madison-s-procreate-lg.jpg
-  teaser: madison-s-procreate-teaser.jpg
-  thumb: madison-s-procreate-250.jpg
+  feature: /images/madison-s-procreate-lg.jpg
+  teaser: /images/madison-s-procreate-teaser.jpg
+  thumb: /images/madison-s-procreate-250.jpg
 tags: [Procreate, painting, drawing, portrait, illustration, time lapse, Sktchy]
 ---
 

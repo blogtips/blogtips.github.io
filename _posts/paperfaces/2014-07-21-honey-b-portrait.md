@@ -2,9 +2,9 @@
 title: "Chalk Lines"
 excerpt: "PaperFaces portrait of Honey B. drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-honey-b-lg.jpg
-  teaser: paperfaces-honey-b-teaser.jpg
-  thumb: paperfaces-honey-b-150.jpg
+  feature: /images/paperfaces-honey-b-lg.jpg
+  teaser: /images/paperfaces-honey-b-teaser.jpg
+  thumb: /images/paperfaces-honey-b-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy]
 ---
 

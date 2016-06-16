@@ -2,8 +2,8 @@
 title: "Black and white closeup of an eye"
 excerpt: "PaperFaces portrait of @arbitral drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-arbitral-twitter-lg.jpg
-  thumb: paperfaces-arbitral-twitter-150.jpg
+  feature: /images/paperfaces-arbitral-twitter-lg.jpg
+  thumb: /images/paperfaces-arbitral-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53, time lapse]
 ---
 

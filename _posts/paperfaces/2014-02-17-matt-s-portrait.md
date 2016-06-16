@@ -2,8 +2,8 @@
 title: "An awkward stare"
 excerpt: "PaperFaces portrait of Matt S. drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-matt-s-lg.jpg
-  thumb: paperfaces-matt-s-150.jpg
+  feature: /images/paperfaces-matt-s-lg.jpg
+  thumb: /images/paperfaces-matt-s-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy, black and white]
 ---
 

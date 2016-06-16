@@ -2,9 +2,9 @@
 title: "Hats Up Glamour Shot"
 excerpt: "PaperFaces portrait of @tomasmalmsten drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-tomasmalmsten-twitter-lg.jpg
-  teaser: paperfaces-tomasmalmsten-twitter-teaser.jpg
-  thumb: paperfaces-tomasmalmsten-twitter-150.jpg
+  feature: /images/paperfaces-tomasmalmsten-twitter-lg.jpg
+  teaser: /images/paperfaces-tomasmalmsten-twitter-teaser.jpg
+  thumb: /images/paperfaces-tomasmalmsten-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53, black and white]
 ---
 

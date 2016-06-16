@@ -2,8 +2,8 @@
 title: "Look ma, I'm a Sim!"
 excerpt: "PaperFaces portrait of @vmalloc drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-vmalloc-twitter-lg.jpg
-  thumb: paperfaces-vmalloc-twitter-150.jpg
+  feature: /images/paperfaces-vmalloc-twitter-lg.jpg
+  thumb: /images/paperfaces-vmalloc-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

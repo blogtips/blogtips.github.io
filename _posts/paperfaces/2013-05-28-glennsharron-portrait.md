@@ -2,8 +2,8 @@
 title: "Purple glow"
 excerpt: "PaperFaces portrait of @glennsharron drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-glennsharron-twitter-lg.jpg
-  thumb: paperfaces-glennsharron-twitter-150.jpg
+  feature: /images/paperfaces-glennsharron-twitter-lg.jpg
+  thumb: /images/paperfaces-glennsharron-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

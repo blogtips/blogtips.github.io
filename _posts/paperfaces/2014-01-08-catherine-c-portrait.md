@@ -2,8 +2,8 @@
 title: "Bird cage faux forest"
 excerpt: "PaperFaces portrait of Catherine C. drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-catherine-c-lg.jpg
-  thumb: paperfaces-catherine-c-150.jpg
+  feature: /images/paperfaces-catherine-c-lg.jpg
+  thumb: /images/paperfaces-catherine-c-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy, black and white]
 ---
 

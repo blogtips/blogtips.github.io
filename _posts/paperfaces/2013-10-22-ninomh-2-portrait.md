@@ -2,8 +2,8 @@
 title: "Triforce of Courage"
 excerpt: "PaperFaces portrait of @ninoMH drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-ninomh-2-twitter-lg.jpg
-  thumb: paperfaces-ninomh-2-twitter-150.jpg
+  feature: /images/paperfaces-ninomh-2-twitter-lg.jpg
+  thumb: /images/paperfaces-ninomh-2-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

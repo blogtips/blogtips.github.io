@@ -4,9 +4,9 @@ headline: "Jekyll Themes"
 excerpt: "Open source Jekyll themes for getting you started with hosting a blog on GitHub Pages for free."
 modified: 2016-04-15T12:14:45-04:00
 image: 
-  feature: jekyll-themes-feature.jpg
-  thumb: jekyll-themes-thumb-250x250.png
-  teaser: jekyll-themes-teaser.png
+  feature: /images/jekyll-themes-feature.jpg
+  thumb: /images/jekyll-themes-thumb-250x250.png
+  teaser: /images/jekyll-themes-teaser.png
 tags: [Jekyll, web development, open source, GitHub]
 work: "Design &amp; Development"
 comments: true
@@ -34,7 +34,7 @@ For more specifics, review each themes' documentation by clicking on the **Theme
 ## Minimal Mistakes
 
 <figure>
-  {% picture minimal-mistakes-3-feature.jpg alt="Minimal Mistakes Jekyll theme" %}
+  {% picture /images/minimal-mistakes-3-feature.jpg alt="Minimal Mistakes Jekyll theme" %}
   <figcaption>A minimal design to let your content shine.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ A flexible two-column Jekyll theme with a minimalistic aesthetic.
 ## Skinny Bones
 
 <figure>
-	{% picture skinny-bones-preview-feature.jpg alt="Skinny Bones Jekyll theme" %}
+	{% picture /images/skinny-bones-preview-feature.jpg alt="Skinny Bones Jekyll theme" %}
 	<figcaption>Includes a fun off canvas menu</figcaption> 
 </figure>
 
@@ -78,7 +78,7 @@ A Jekyll starter used to build the latest incarnation of Made Mistakes.
 ## So Simple
 
 <figure>
-	{% picture so-simple-theme-feature-2015.jpg alt="So Simple feature image" %}
+	{% picture /images/so-simple-theme-feature-2015.jpg alt="So Simple feature image" %}
 	<figcaption>Large images and site logo if that's your thing</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ A simple and clean responsive Jekyll theme for words and large photographs.
 ## HPSTR
 
 <figure>
-	{% picture hpstr-preview-feature-2015.jpg alt="HPSTR feature image" %}
+	{% picture /images/hpstr-preview-feature-2015.jpg alt="HPSTR feature image" %}
 	<figcaption>A traditional blog approach with a modern style</figcaption>
 </figure>
 

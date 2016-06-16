@@ -2,9 +2,9 @@
 title: "Spiderwebs and dew drops"
 excerpt: "PaperFaces portrait commission drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-tati-lg.jpg
-  teaser: paperfaces-tati-teaser.jpg
-  thumb: paperfaces-tati-150.jpg
+  feature: /images/paperfaces-tati-lg.jpg
+  teaser: /images/paperfaces-tati-teaser.jpg
+  thumb: /images/paperfaces-tati-150.jpg
 tags: [portrait, illustration, Paper by 53, blend, bokeh, time lapse]
 ---
 

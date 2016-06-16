@@ -2,8 +2,8 @@
 title: "A gray day"
 excerpt: "PaperFaces portrait of @tommysadlr drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-tommysadlr-twitter-lg.jpg
-  thumb: paperfaces-tommysadlr-twitter-150.jpg
+  feature: /images/paperfaces-tommysadlr-twitter-lg.jpg
+  thumb: /images/paperfaces-tommysadlr-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

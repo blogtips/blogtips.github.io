@@ -2,8 +2,8 @@
 title: "A PaperFaces Thank You for FiftyThree"
 excerpt: "PaperFaces portraits of the makers at FiftyThree using Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-fiftythree-lg.jpg
-  thumb: paperfaces-fiftythree-150.jpg
+  feature: /images/paperfaces-fiftythree-lg.jpg
+  thumb: /images/paperfaces-fiftythree-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

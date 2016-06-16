@@ -2,8 +2,8 @@
 title: "Fiesta!"
 excerpt: "PaperFaces portrait of @wefreema drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-wefreema-twitter-lg.jpg
-  thumb: paperfaces-wefreema-twitter-150.jpg
+  feature: /images/paperfaces-wefreema-twitter-lg.jpg
+  thumb: /images/paperfaces-wefreema-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

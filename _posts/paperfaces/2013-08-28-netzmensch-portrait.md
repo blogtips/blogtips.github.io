@@ -2,8 +2,8 @@
 title: "Cyborg"
 excerpt: "PaperFaces portrait of @netzmensch drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-netzmensch-twitter-lg.jpg
-  thumb: paperfaces-netzmensch-twitter-150.jpg
+  feature: /images/paperfaces-netzmensch-twitter-lg.jpg
+  thumb: /images/paperfaces-netzmensch-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53, beard]
 ---
 

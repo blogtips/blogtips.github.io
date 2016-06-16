@@ -2,8 +2,8 @@
 title: "Ears covered in sounds"
 excerpt: "PaperFaces portrait of @Inferno_May13 drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-inferno-may13-twitter-lg.jpg
-  thumb: paperfaces-inferno-may13-twitter-150.jpg
+  feature: /images/paperfaces-inferno-may13-twitter-lg.jpg
+  thumb: /images/paperfaces-inferno-may13-twitter-150.jpg
 tags: [portrait, illustration, Paper by 53]
 ---
 

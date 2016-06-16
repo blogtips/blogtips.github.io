@@ -2,9 +2,9 @@
 title: "I am utterly alone"
 excerpt: "PaperFaces portrait of Lydia Deetz drawn with Paper by 53 on an iPad."
 image: 
-  feature: paperfaces-lydia-deetz-lg.jpg
-  teaser: paperfaces-lydia-deetz-teaser.jpg
-  thumb: paperfaces-lydia-deetz-150.jpg
+  feature: /images/paperfaces-lydia-deetz-lg.jpg
+  teaser: /images/paperfaces-lydia-deetz-teaser.jpg
+  thumb: /images/paperfaces-lydia-deetz-150.jpg
 tags: [portrait, illustration, Paper by 53, Sktchy, black and white, blend]
 ---
 
